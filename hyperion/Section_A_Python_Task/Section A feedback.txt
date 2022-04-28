@@ -1,0 +1,7 @@
+The code format for option 1 :Python Task
+1)readability flawed, could use some newlines and the comments.
+
+2)You haven't passed in the index as a parameter to the sorted() method used in line 5.
+ parameter/argument
+ ie.) the code (line 5) doesn't meet the conditions needed by the program to run, hence the exception that is thrown.
+ like a trafiic light thats not plugged-in
